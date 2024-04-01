@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Open source Enthusiastic**.
 - 🤝 I’m looking for help with **Web Development**.
 - 💬 Ask me about **web development**.
-- 📫 How to reach me: **surendarks2004@gmail.com**
+- 📫 How to reach me: **surendarks2402@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Surendar_KS_24?t=GBCBq4OPCXTJ1cNxL3I3lA&s=09 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokilp_25" height="30" width="40" /></a>
