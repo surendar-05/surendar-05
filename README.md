@@ -18,6 +18,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surendar-05&show_icons=true&locale=en&layout=compact" alt="surendar-05" /></p>
 
-[![Surendar's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendar-05)](https://github.com/surendar-05/github-readme-stats)
+
 
 <h3>Thank you for visiting my profile, and I look forward to collaborating on exciting Open Source projects </h3>
