@@ -43,8 +43,8 @@
 </div>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surendar-05&show_icons=true&locale=en&layout=compact" alt="surendar-05" /></p>
 
 
 
-<h3>Thank you for visiting my profile, and I look forward to collaborating on exciting Open Source projects </h3>
+
+<h3 align="center">Thank you for visiting my profile, and I look forward to collaborating on exciting Open Source projects </h3>
