@@ -28,6 +28,21 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
 
+ ## Stats and Streaks
+
+<div align="center">
+  
+  ![Surendar's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendar-05&show_icons=true&show=prs_merged,prs_merged_percentage&theme=github_dark) &nbsp; &nbsp;
+  ![Surendar's Streak](http://github-readme-streak-stats.herokuapp.com?user=surendar-05&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+
+  <!-- ![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark) -->
+  ![Surendar's Trophies](https://github-profile-trophy.vercel.app/?username=surendar-05&rank=-B&column=-1&no-frame=true&margin-w=10)  
+  </br>
+  ![Surendar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=surendar-05&theme=github_dark)
+    
+</div>
+
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surendar-05&show_icons=true&locale=en&layout=compact" alt="surendar-05" /></p>
 
 
