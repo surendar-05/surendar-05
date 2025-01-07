@@ -81,9 +81,13 @@
 <h2 align="center">📊 Stats and Streaks</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surendar-05&show_icons=true&theme=github_dark" alt="GitHub Stats">
+  
  
   <img src="https://github-profile-trophy.vercel.app/?username=surendar-05&rank=-B&column=-1&no-frame=true&margin-w=10" alt="Trophies">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendar-05&theme=github_dark" alt="Top Languages">
+</div>
+<div>
+  ![Surendar's Streak](http://github-readme-streak-stats.herokuapp.com?user=surendar-05&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
 </div>
 
 <h3 align="center">Thank you for visiting my profile! Looking forward to collaborating on exciting Open Source projects 🚀</h3>
