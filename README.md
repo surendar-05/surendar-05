@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surendar KS</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Tech+Enthusiast;Open+Source+Contributor;+%7C+Problem+Solver;Passionate+about+Tech+%26+Innovation" alt="Surendar's Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Tech+Enthusiast;Open+Source+Contributor;Problem+Solver;Passionate+about+Tech+%26+Innovation" alt="Surendar's Typing SVG">
 </p>
 
 - 💜 I am passionate about **Computer Science, Psychology, and Electronics**.
