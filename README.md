@@ -82,12 +82,14 @@
 <div align="center">
   
   ![Surendar's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendar-05&show_icons=true&show=prs_merged,prs_merged_percentage&theme=github_dark) &nbsp; &nbsp;
-  ![Surendar's Streak](http://github-readme-streak-stats.herokuapp.com?user=surendar-05&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+  ![Surendar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=surendar-05&theme=tokyonight&hide_border=false)<br/>
+
+  <a href="https://github.com/surendar-05github-readme-activity-graph"><img alt="Surendar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=surendar-05&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <!-- ![Surendar's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=Surendar-05r&theme=github-dark) -->
   ![Surendar's Trophies](https://github-profile-trophy.vercel.app/?username=surendar-05&rank=-B&column=-1&no-frame=true&margin-w=10)  
   </br>
-  ![Surendar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=surendar-05&theme=github_dark)
+  ![Surendar's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=surendar-05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     
 </div>
 
